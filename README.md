@@ -23,6 +23,11 @@ Raksha Setu - Building Safer Communities, One Visitor at a Time
 </div>
 
 ---
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/497cd3fb-1184-4ba2-9dfe-9587c6279220" alt="Jeevan Rakshak Logo"/>
+</p>
+
+
 
 # 📋 Table of Contents
 
