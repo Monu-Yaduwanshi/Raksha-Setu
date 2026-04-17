@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "70919698345",
+    "firebase_url": "https://threat-af818-default-rtdb.firebaseio.com",
+    "project_id": "threat-af818",
+    "storage_bucket": "threat-af818.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70919698345:android:eade3a86db7c0ee80df6b8",
+        "android_client_info": {
+          "package_name": "com.example.rakshasetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW2VxoxUQww_2Yt6BRdUGZoh_NfUABfFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70919698345:android:0c2b480dab747afd0df6b8",
+        "android_client_info": {
+          "package_name": "com.example.threadapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW2VxoxUQww_2Yt6BRdUGZoh_NfUABfFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
