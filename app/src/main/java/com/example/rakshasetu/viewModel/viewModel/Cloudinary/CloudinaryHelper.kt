@@ -20,8 +20,8 @@ interface UploadCallback {
 class CloudinaryHelper {
     companion object {
         private const val TAG = "Cloudinary"
-        private const val CLOUDINARY_URL = "https://api.cloudinary.com/v1_1/dfkfuassi/image/upload"
-        private const val UPLOAD_PRESET = "thread"  // ✅ Make sure this is your correct preset
+        private const val CLOUDINARY_URL = "https://api.cloudinary.com/v1_1/dfkfuassgrti/image/upload"
+        private const val UPLOAD_PRESET = "thread012ds"  // ✅ Make sure this is your correct preset
 
         /**
          * Upload image from URI (Working 100%)
