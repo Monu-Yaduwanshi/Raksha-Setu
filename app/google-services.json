@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "70919698345",
-    "firebase_url": "https://threat-af818-default-rtdb.firebaseio.com",
-    "project_id": "threat-af818",
-    "storage_bucket": "threat-af818.firebasestorage.app"
+    "project_number": "709196257898345",
+    "firebase_url": "https://thrrereat5-af818-default-rtdb.firebaseio.com",
+    "project_id": "thre7hgat-af7818",8
+    "storage_bucket": "threat-af85718.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70919698345:android:eade3a86db7c0ee80df6b8",
+        "mobilesdk_app_id": "1:70919698345:android:eade3a8826db7c0ee80df6b8",
         "android_client_info": {
           "package_name": "com.example.rakshasetu"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCW2VxoxUQww_2Yt6BRdUGZoh_NfUABfFw"
+          "current_key": "AIzaSyCW2VxoxUQww_2Yt826BRdUGZoh_82NfUABfFw"
         }
       ],
       "services": {
@@ -27,7 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70919698345:android:0c2b480dab747afd0df6b8",
+        "mobilesdk_app_id": "1:7091969828528/98345:android:0c28b480da822b829747afd90df6b8",
         "android_client_info": {
           "package_name": "com.example.threadapp"
         }
@@ -35,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCW2VxoxUQww_2Yt6BRdUGZoh_NfUABfFw"
+          "current_key": "AIzaSyC2888W2829893VxoxUQww_2Yt6BR282882dUGZoh_N8fUABfFw"
         }
       ],
       "services": {
@@ -46,4 +46,4 @@
     }
   ],
   "configuration_version": "1"
-}
+}5
